@@ -1,0 +1,17 @@
+{
+  "name": "streaming-faucet",
+  "version": "1.0.0",
+  "description": "PoC for a faucet opening a SupoerToken stream to anybody interacting with it.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "git@d10r.net",
+  "license": "AGPL-3.0",
+  "devDependencies": {
+    "@openzeppelin/contracts": "~3.4.1",
+    "@superfluid-finance/ethereum-contracts": "~1.0.0-rc.3",
+    "@truffle/hdwallet-provider": "^1.2.6",
+    "dotenv": "^8.2.0",
+    "truffle": "^5.3.2"
+  }
+}
